@@ -37,9 +37,9 @@ Desarrollar una aplicación web de administración (panel tipo POS) que permita 
 |--------|-----|
 | Alejandro | Scrum Master / DB Admin |
 | José | Backend Developer |
-| Luis | Frontend Developer |
+| Juan | Frontend Developer |
 | Ángel | QA / Tester |
-| [Integrante 5] | Analista / Documentador |
+| Esmeralda | Analista / Documentador |
 
 > IDGS 9°B — Universidad Tecnológica del Norte de Aguascalientes (UTNA)
 
